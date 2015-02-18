@@ -1,6 +1,5 @@
-var gulp      = require('gulp');
-var transform = require('vinyl-transform');
-var pkg       = require('./package.json');
+var gulp  = require('gulp');
+var pkg   = require('./package.json');
 
 var scripts = {
   lint: ['*.js']

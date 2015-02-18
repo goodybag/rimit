@@ -1,0 +1,29 @@
+{
+  "name": "rimit",
+  "version": "1.0.0",
+  "description": "Sensible Rate Limiter with Persistence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodybag/rimit.git"
+  },
+  "keywords": [
+    "rate",
+    "limit",
+    "limiting",
+    "queue"
+  ],
+  "author": "John Fawcett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodybag/rimit/issues"
+  },
+  "homepage": "https://github.com/goodybag/rimit",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.2"
+  }
+}
